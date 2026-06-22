@@ -8,7 +8,11 @@
   <a href="https://github.com/quantglass-labs/quantglass/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/quantglass-labs/quantglass?include_prereleases"></a>
   <a href="https://github.com/quantglass-labs/quantglass/blob/main/LICENSE"><img alt="License: AGPL-3.0-or-later" src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue.svg"></a>
   <img alt="Languages: 20 + RTL" src="https://img.shields.io/badge/languages-20%20%C2%B7%20RTL-2ea44f.svg">
+  <a href="https://www.youtube.com/@QuantGlass"><img alt="YouTube: @QuantGlass" src="https://img.shields.io/badge/YouTube-@QuantGlass-FF0000?logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/sponsors/quantglass-labs"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white"></a>
 </p>
+
+<p align="center"><em>🎥 Learn trading honestly on <a href="https://www.youtube.com/@QuantGlass">YouTube</a> — new lessons Tuesday &amp; Thursday.</em></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/quantglass-labs/quantglass/main/docs/assets/screenshots/dashboard.png" width="820" alt="QuantGlass dashboard">
